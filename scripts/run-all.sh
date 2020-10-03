@@ -13,5 +13,5 @@ chown -R root:root $LFS/tools
 sync
 # continue
 sh /tools/run-build.sh
-sh /tools/run-image.sh
+sh /tools/run-tarball.sh
 EOF
